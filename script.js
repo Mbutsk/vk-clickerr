@@ -1,0 +1,1 @@
+onkeydown = e => e.key = ' ' ? clicksCoutSpan.innerText++ : 0
